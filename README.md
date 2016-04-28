@@ -13,11 +13,11 @@ On the other hand, this is a best practise to develop your knowledge in Testing.
 You need to install the latest [Node.js](http://nodejs.org/download/) at the first. 
 
 
-* Make a working directory like iPhoneList with clone this repository 
+* Make a working directory like iPhonesList with clone this repository 
 
 ```
 git clone https://github.com/mparhiz/iPhonesList.git
-cd iPhoneList
+cd iPhonesList
 ```
 
 ## Running
