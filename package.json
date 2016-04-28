@@ -1,0 +1,21 @@
+{
+  "name": "iPhoneList",
+  "version": "1.0.0",
+  "description": "An app to showcase power of AngularJS",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "angular-mocks": "^1.5.5",
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.22",
+    "karma-jasmine": "^0.3.8",
+    "karma-ng-html2js-preprocessor": "^0.2.2",
+    "karma-phantomjs-launcher": "^1.0.0",
+    "phantomjs-prebuilt": "^2.1.7"
+  },
+  "scripts": {
+    "test": "node ./node_modules/karma/bin/karma start"
+  },
+  "author": "Mohsen Parhiz",
+  "license": "MIT"
+}

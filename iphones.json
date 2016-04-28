@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone SE",
+    "color": "Silver",
+    "type": "Wifi",
+    "capacity": "16GB",
+    "price": 629
+  },
+  {
+    "id": 2,
+    "name": "iPhone SE",
+    "color": "Silver",
+    "type": "Wifi",
+    "capacity": "64GB",
+    "price": 829
+  },
+  {
+    "id": 3,
+    "name": "iPhone SE",
+    "color": "Gold",
+    "type": "Wifi",
+    "capacity": "16GB",
+    "price": 629
+  },
+  {
+    "id": 4,
+    "name": "iPhone SE",
+    "color": "Gold",
+    "type": "Wifi",
+    "capacity": "64GB",
+    "price": 829
+  },
+  {
+    "id": 5,
+    "name": "iPhone SE",
+    "color": "Space Grey",
+    "type": "Wifi",
+    "capacity": "16GB",
+    "price": 629
+  },
+  {
+    "id": 6,
+    "name": "iPhone SE",
+    "color": "Space Grey",
+    "type": "Wifi",
+    "capacity": "64GB",
+    "price": 829
+  },
+  {
+    "id": 7,
+    "name": "iPhone SE",
+    "color": "Rose Gold",
+    "type": "Wifi",
+    "capacity": "16GB",
+    "price": 629
+  },
+  {
+    "id": 8,
+    "name": "iPhone SE",
+    "color": "Rose Gold",
+    "type": "Wifi",
+    "capacity": "64GB",
+    "price": 829
+  }
+]

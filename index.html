@@ -1,0 +1,14 @@
+<html>
+  <head>
+    <title>An application to showcase power of AngularJS</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="angular.js"></script>
+    <script src="app.js"></script>
+  </head>
+  <body ng-app="iphoneApp" ng-controller="AppController as AppCtrl">
+    <h1>iPhone SE</h1>
+    <label for="search">Search</label>
+    <input id="search" name="search" ng-model="AppCtrl.searchStr">
+    <iphone-list iphones="AppCtrl.iphones" search-string="AppCtrl.searchStr" filter-by-list="AppCtrl.filterByList"></iphone-list>
+  </body>
+</html>
