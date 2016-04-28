@@ -16,10 +16,8 @@ You need to install the latest [Node.js](http://nodejs.org/download/) at the fir
 * Make a working directory like iPhoneList and clone this repository 
 
 ```
-mkdir iPhoneList
-cd iPhoneList
 git clone https://github.com/mparhiz/iPhonesList.git
-
+cd iPhoneList
 ```
 
 ## Running
