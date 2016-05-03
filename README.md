@@ -34,13 +34,11 @@ The current readme does not say anything about how to run the app.
 
 ```
 npm install
-
 ```
 
 * I added a command to package.json (test) in which it directly calls karma. This way to run the tests the user only needs to run:
 ```
 npm test
-
 ```
 
 * In your karma.conf.js singleRun was set to false which prevents node to exit after it ran all the tests (I needed CTRL+C every time after running tests). I changed it to true. So make sure you have that one in place.
